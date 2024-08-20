@@ -1,6 +1,11 @@
 #Features
 -Tech Used -HTML TailwindsCSS React Js And Firebase
 
+
+Hooks
+ -useState
+ -useRef
+
 - Browse(After Sign up and Sign in Page)
   -Sign In / Sign up Page
   -Header
